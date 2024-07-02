@@ -1,6 +1,6 @@
 【第二章 变量和简单的数据类型】 
    < 字符串:
-# 2.3.2_ 
+# 2.3.2_在字符串中使用变量 
 first_name = "ada"
 last_name = "lovelace"
 full_name = f"{first_name} {last_name}"
